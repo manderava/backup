@@ -1,5 +1,10 @@
 # coris-barkup
   日常使用备份，包括**IDE配置**等。
   - Idea配置
-  ` File->Import Settings...`
+
+  操作 | <div align="center">路径</div>
+  --- | ---
+  导出 | ` File->Export Settings...`
+  导入 | ` File->Import Settings...`
+  
     
